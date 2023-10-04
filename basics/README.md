@@ -1,1 +1,1 @@
-list of your current directory
+hidden files
