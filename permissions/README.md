@@ -1,1 +1,1 @@
-mirror
+dir perm
