@@ -1,1 +1,1 @@
-dir perm
+grp chng
