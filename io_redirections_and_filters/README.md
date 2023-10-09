@@ -1,1 +1,1 @@
-display2
+display 2f
