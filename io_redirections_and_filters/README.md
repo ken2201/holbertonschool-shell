@@ -1,1 +1,1 @@
-display 2f
+lastlines
