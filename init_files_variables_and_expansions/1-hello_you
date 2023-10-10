@@ -1,2 +1,3 @@
 #!/bin/bash
-alias $user=whoami | echo "hello" $user
+USERNAME=$(whoami) | echo "hello USERNAME"
+
