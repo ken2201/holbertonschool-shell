@@ -1,1 +1,1 @@
-not contain
+letter only
