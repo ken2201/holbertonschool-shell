@@ -1,1 +1,1 @@
-dir in path
+print envir
