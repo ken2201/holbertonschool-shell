@@ -1,1 +1,1 @@
-division var
+power var
