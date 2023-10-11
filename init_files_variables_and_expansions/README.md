@@ -1,1 +1,1 @@
-create local var
+create globla var
