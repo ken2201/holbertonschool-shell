@@ -1,1 +1,1 @@
-combinations
+print 2 decimal
