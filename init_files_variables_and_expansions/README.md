@@ -1,1 +1,1 @@
-print envir
+list var, env , funct
